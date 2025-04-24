@@ -1,13 +1,13 @@
 # JUCOS
 
-## Presentation
+## 📘 Presentation
 발제 자료
 
-### List
+### 📅 List
 * May 13 & May 15, 2024    
  L1 Development Environment Setup
 
-## License
+## 📄 License
 All presentation materials in this repository are licensed under  
 **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
 
