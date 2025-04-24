@@ -1,6 +1,6 @@
 # JUCOS
 
-## 📘 Presentation
+## 📘 Presentations
 발제 자료
 
 ### 📅 List
